@@ -19,9 +19,20 @@
 
 ---
 
+## 🛡️ Özgünlük ve Lisans (Authenticity & Licensing)
+
+**Swex Premium**, tamamen sıfırdan tarafımca geliştirilmiş, piyasadaki kopyalardan uzak, özgün bir yazılımdır.
+
+*   **%100 Orijinal Yazılım**: Bu program kimseden alınmamıştır; tüm optimizasyon mimarisi ve kodlaması **Swex** (benim) tarafımdan yapılmıştır.
+*   **Kanıtlanmış Tecrübe**: Bu ve benzeri sistem optimizasyon araçlarını daha önce **TAFGame** ailesi için de bizzat ben tasarladım ve geliştirdim.
+*   **Geçmiş ve Güven**: Yazılımın temelleri 1 ay öncesinden web sitemizde atılmış olup, gelişim süreci tamamen şeffaftır.
+*   **Lisans Hakları**: Yazılımın tüm kullanım ve dağıtım hakları saklıdır. İzinsiz kopyalanması, kaynak kodlarının dağıtılması veya üzerinde değişiklik yapılması kesinlikle yasaktır. Her kopya, kullanıcıya özel lisans anahtarı ile çalışır.
+
+---
+
 ## ⚡ Why Swex Premium?
 
-**Swex Premium**, standart optimizasyonların ötesine geçerek sistemin her zerresini oyun ve iş yükü için özelleştirir. Özellikle rekabetçi oyuncular ve sisteminden maksimum verim almak isteyen geliştiriciler için tasarlanmıştır.
+**Swex Premium**, standart optimizasyonların ötesine geçerek sistemin her zerresini oyun ve iş yükü için özelleştirir. Özellikle rekabetçi oyuncular için tasarlanmıştır.
 
 ### 🌟 Exclusive Features
 | Feature | Description | Benefit |
@@ -47,14 +58,28 @@
 
 ---
 
+## 📸 Program Screenshots
+
+<div align="center">
+  <p><i>Swex Tools Premium Arayüzü</i></p>
+  
+  <img src="sw3x1.png" alt="Swex Tools Ana Menü" width="800" />
+  <br><br>
+  <img src="sw3x2.png" alt="Swex Tools Optimizasyon Ayarları" width="800" />
+  <br><br>
+  <img src="sw3x3.png" alt="Swex Tools Yükleme Ekranı" width="600" />
+</div>
+
+---
+
 ## 🚀 How to Get Premium?
 
 Premium sürüme sahip olmak ve sisteminizi zirveye taşımak için aşağıdaki adımları izleyin:
 
-1.  **Discord'a Katıl:** [Discord sunucumuza](https://discord.gg/kf5nD8VaB5) giriş yap.
-2.  **Destek Talebi Aç:** Satın alım veya bilgi için bir ticket oluştur ya da doğrudan **swex** ile iletişime geç.
-3.  **Kurulum:** Ödeme sonrası sana iletilen özel Premium dosyasını indir ve yönetici olarak çalıştır.
-4.  **Keyfini Çıkar:** Bilgisayarını yeniden başlat ve performans artışını deneyimle!
+1.  **Discord'a Katıl**: [Discord sunucumuza](https://discord.gg/kf5nD8VaB5) giriş yap.
+2.  **Destek Talebi Aç**: Satın alım veya bilgi için bir ticket oluştur ya da doğrudan **swex** ile iletişime geç.
+3.  **Kurulum**: Ödeme sonrası sana iletilen özel Premium dosyasını indir ve yönetici olarak çalıştır.
+4.  **Keyfini Çıkar**: Bilgisayarını yeniden başlat ve performans artışını deneyimle!
 
 ---
 
